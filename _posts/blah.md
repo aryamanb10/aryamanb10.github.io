@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aryaman Bajaj
+title: Aryaman Bajaj second post
 ---
 
 Here's a p5 example
